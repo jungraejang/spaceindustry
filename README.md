@@ -6,4 +6,4 @@
 
 Work In Progress
 
-URL: [Netlify URL](http://https://rad-bubblegum-e49cd9.netlify.app/ "Netlify URL")
+URL: [Netlify URL](https://rad-bubblegum-e49cd9.netlify.app/ "Netlify URL")
